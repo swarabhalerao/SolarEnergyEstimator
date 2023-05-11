@@ -1,5 +1,5 @@
 # SolarEnergyEstimator
-First ever hackathon submission and first ever attempt at making a GUI application.
+Our first ever hackathon submission. 
 
 ## About
 A solar energy calculator that tells you the amount of solar energy you can harvest from your rooftop and how much you can earn from the surplus.\
