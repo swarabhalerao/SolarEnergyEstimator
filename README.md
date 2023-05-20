@@ -1,5 +1,4 @@
 # SolarEnergyEstimator
-Our first ever hackathon submission. 
 
 ## About
 A solar energy calculator that tells you the amount of solar energy you can harvest from your rooftop and how much you can earn from the surplus.\
@@ -18,3 +17,5 @@ On the GUI front, the pop up windows took a lot of attempts to get right given t
 ## Results
 We ended up using a website that changes URL according to the location and scoured the .json file to filter out the relevant data.\
 We learnt up the ins and outs of Tkinter in a night and managed to make our display as needed.
+
+Here's a video that showcases its working: https://youtu.be/pUetRSOP984
