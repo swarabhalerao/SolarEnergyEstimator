@@ -1,7 +1,7 @@
 # SolarEnergyEstimator
 
 ## About
-A solar energy calculator that tells you the amount of solar energy you can harvest from your rooftop and how much you can earn from the surplus.\
+A solar energy calculator that tells you the amount of solar energy you can harvest from your rooftop and how much you can earn from the surplus. (A hackathon project)\
 **Built in:** Python
 
 ## Working
